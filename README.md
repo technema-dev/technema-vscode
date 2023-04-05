@@ -1,5 +1,7 @@
 # Technema-vscode
 
+Technema VSCode Extension Pack
+
 ## List of extensions
 
 ### VSCode Basic extension
