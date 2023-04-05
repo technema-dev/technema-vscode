@@ -59,6 +59,7 @@
     "christian-kohler.npm-intellisense",
     "mikestead.dotenv",
     "PKief.material-icon-theme",
-    "dcasella.monokai-plusplus"
+    "dcasella.monokai-plusplus",
+    "dsznajder.es7-react-js-snippets"
   ]
 }

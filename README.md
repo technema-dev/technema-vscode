@@ -31,6 +31,7 @@
 - [JavaScript (ES6)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 - [JavaScript and TypeScript](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)
 - [NPM intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+- [ES7 ReactJs](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
