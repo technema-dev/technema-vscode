@@ -1,0 +1,61 @@
+{
+  "name": "technema-vscode",
+  "displayName": "Technema",
+  "description": "Technema VSCode Extension Pack",
+  "version": "0.0.1",
+  "author": {
+    "name": "Anthony ARJONA"
+  },
+  "icon": "technema.jpg",
+  "keywords": [
+    "technema",
+    "vscode",
+    "extension"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/technema-dev/technema-vscode"
+  },
+  "homepage": "https://github.com/technema-dev/technema-vscode/blob/main/README.md",
+  "publisher": "AnthonyARJONA",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "MS-CEINTL.vscode-language-pack-fr",
+    "ecmel.vscode-html-css",
+    "HTMLHint.vscode-htmlhint",
+    "esbenp.prettier-vscode",
+    "xabikos.JavaScriptSnippets",
+    "nickdemayo.vscode-json-editor",
+    "mechatroner.rainbow-csv",
+    "bradlc.vscode-tailwindcss",
+    "redhat.vscode-yaml",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode.vscode-typescript-next",
+    "ms-azuretools.vscode-azureterraform",
+    "ms-vsliveshare.vsliveshare",
+    "ms-vscode.makefile-tools",
+    "GitHub.copilot",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "steoates.autoimport",
+    "CucumberOpen.cucumber-official",
+    "alexkrechik.cucumberautocomplete",
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "alexcvzz.vscode-sqlite",
+    "mongodb.mongodb-vscode",
+    "hashicorp.terraform",
+    "wix.vscode-import-cost",
+    "Orta.vscode-jest",
+    "christian-kohler.npm-intellisense",
+    "mikestead.dotenv",
+    "PKief.material-icon-theme",
+    "dcasella.monokai-plusplus"
+  ]
+}
