@@ -2,7 +2,11 @@ name: "Bump npm version"
 
 on:
   workflow_dispatch: {}
-  workflow_call: {}
+  pull_request:
+    branches:
+      - main
+    types:
+      - closed
 
 jobs:
   merge_pr:
