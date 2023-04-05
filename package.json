@@ -17,13 +17,16 @@
     "url": "https://github.com/technema-dev/technema-vscode"
   },
   "homepage": "https://github.com/technema-dev/technema-vscode/blob/main/README.md",
-  "publisher": "AnthonyARJONA",
+  "publisher": "Technema",
   "engines": {
     "vscode": "^1.0.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "dependencies": {
+    "@vscode/vsce": "2.18.0"
+  },
   "extensionPack": [
     "MS-CEINTL.vscode-language-pack-fr",
     "ecmel.vscode-html-css",
