@@ -1,0 +1,16 @@
+name: "CI Bump & Publish"
+
+on:
+  pull_request:
+    branches:
+      - main
+    types:
+      - closed
+
+jobs:
+  bump-npm-version:
+    uses: ./.github/workflows/bump-npm-version.yml
+    secrets: inherit
+  publish:
+    uses: ./.github/workflows/publish.yml
+    secrets: inherit

@@ -1,0 +1,19 @@
+name: "Publish Extension"
+on:
+  workflow_dispatch: {}
+  workflow_call: {}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: "npm"
+      - run: npm ci
+      - run: npx vsce package
+      - run: npx vsce publish -p ${{ secrets.VSCODE_PAT }}
+        env:
+          VSCODE_PAT: ${{ secrets.VSCODE_PAT }}
