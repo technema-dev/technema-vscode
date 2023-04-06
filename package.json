@@ -59,6 +59,7 @@
     "christian-kohler.npm-intellisense",
     "mikestead.dotenv",
     "PKief.material-icon-theme",
-    "dcasella.monokai-plusplus"
+    "dcasella.monokai-plusplus",
+    "rangav.vscode-thunder-client"
   ]
 }
