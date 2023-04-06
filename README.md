@@ -5,6 +5,7 @@ Technema VSCode Extension Pack
 ## List of extensions
 
 ### VSCode Basic extension
+
 - [French Language Pack](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr)
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 - [HTMLHint](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint)
@@ -14,7 +15,6 @@ Technema VSCode Extension Pack
 - [Makefile](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-
 
 ### Infrastructure
 
@@ -51,6 +51,7 @@ Technema VSCode Extension Pack
 ### Others
 
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
 ### Themes
 
