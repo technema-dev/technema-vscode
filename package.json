@@ -25,7 +25,7 @@
     "Extension Packs"
   ],
   "dependencies": {
-    "@vscode/vsce": "2.18.0"
+    "@vscode/vsce": "2.19.0"
   },
   "extensionPack": [
     "MS-CEINTL.vscode-language-pack-fr",
